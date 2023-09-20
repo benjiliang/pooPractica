@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:51:47.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="ufEPLYxPv5yf3q0-RfQm" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T17:14:52.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="FEX2GImeAUUIR6L0YGMI" version="21.7.5" type="github">
   <diagram name="Página-1" id="z1PByEqdLCHVUJ9tPRRJ">
     <mxGraphModel dx="1127" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,6 +222,9 @@
             <mxPoint x="405" y="410" as="sourcePoint" />
             <mxPoint x="405" y="524" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fPxyy4-nxD-G0ZK6z71C-91" value="&lt;div&gt;Lista De musicAI&lt;/div&gt;&lt;div&gt;Mezclar los generos&lt;/div&gt;&lt;div&gt;Generar mas musicAI&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
